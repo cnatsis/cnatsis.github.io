@@ -14,11 +14,11 @@ author: Christos Natsis
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "about"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -47,10 +47,10 @@ social-network-links:
   twitter: christos_na
 #   patreon: DeanAttali
 #   youtube: c/daattali
-#  medium: yourname
+#  medium: cnatsis
 #  reddit: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "14891636/christos-natsis"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname

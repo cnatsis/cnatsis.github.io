@@ -10,7 +10,15 @@ subtitle:
 # `whoami`
 My name is Christos Natsis, I am a Senior Software Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in Big Data technologies, stream processing, web development, DevOps and cloud computing.
 
-`#big data` `#data analytics` `#kafka` `#aws` `#azure`
+<!-- `#big data` `#data analytics` `#kafka` `#aws` `#azure` -->
+
+<a href="/tags#big data" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;big data</a>
+<a href="/tags#data analytics" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;data analytics</a>
+<a href="/tags#microservices" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;microservices</a>
+<!-- <a href="/tags#kafka" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;kafka</a> -->
+<a href="/tags#aws" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;aws</a>
+<a href="/tags#azure" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;azure</a>
+
 
 ## Technologies
 
@@ -21,7 +29,9 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 - Apache Spark
 - Apache Hadoop, HDFS, Hive
 - Trino
-- FastAPI, Flask
+- PostgreSQL, MySQL
+- Web Frameworks (Spring, FastAPI, Flask)
+- Docker
 
 ## Certifications
 
