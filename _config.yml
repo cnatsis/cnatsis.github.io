@@ -96,7 +96,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "big data, stream processing, kafka, devops, cloud, consulting, data engineering, benchmarks, christos natsis blog, christos natsis, cnatsis"
+keywords: "big data, stream processing, kafka, devops, cloud, consulting, data engineering, benchmarks, christos natsis blog, cnatsis blog, christos natsis, cnatsis"
 
 # --- Colours / background image --- #
 
