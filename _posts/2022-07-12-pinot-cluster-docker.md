@@ -10,7 +10,7 @@ tags: [apache-pinot, analytics, real-time, docker, devops]
 ---
 <div style="text-align: justify;">
 <p>
-As data is growing and businesses require rapid data analysis to make their decisions, a need emerged for systems that can support real-time analytics on streams of data with with low latency. This article will show you how to spin up an Apache Pinot cluster in a simple way using <b>Docker</b> and <b>docker-compose</b>.
+As data is growing and businesses require rapid data analysis to make their decisions, a need emerged for systems that can support real-time analytics on streams of data with low latency. This article will show you how to spin up an Apache Pinot cluster in a simple way using <b>Docker</b> and <b>docker-compose</b>.
 </p>
 
 <p>
