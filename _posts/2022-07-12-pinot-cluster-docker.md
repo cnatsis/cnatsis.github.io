@@ -22,11 +22,11 @@ Pinot was built by engineers at LinkedIn and Uber and is using a columnar store,
 </p>
 
 <p>
-Pinot supports various integrations with other systems, some of which include <a href="https://trino.io">Trino</a> distributed query engine to support joins with other data sources, as well as <a href="https://superset.apache.org/">Apache Superset</a> for interactive dashboards.
+Pinot supports various integrations with other systems, some of which include <a href="https://trino.io" target="_blank">Trino</a> distributed query engine to support joins with other data sources, as well as <a href="https://superset.apache.org/" target="_blank">Apache Superset</a> for interactive dashboards.
 </p>
 
 <p>
-Apache Pinot is availabe as a managed service from <a href="https://startree.ai/">StarTree</a> Cloud.
+Apache Pinot is availabe as a managed service from <a href="https://startree.ai/" target="_blank">StarTree</a> Cloud.
 </p>
 </div>
 
@@ -73,7 +73,7 @@ Pinot <b>Servers</b> host the data segments and serve queries off the data they 
 
 <div style="text-align: justify;">
 <p>
-Minion uses the <a href="https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework">Apache Helix Task Framework</a> to offload computationally intensive tasks from other components. 
+Minion uses the <a href="https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework" target="_blank">Apache Helix Task Framework</a> to offload computationally intensive tasks from other components. 
 </p> 
 </div>
 
@@ -312,7 +312,7 @@ To start all services above run:
 docker-compose up -d
 ```
 
-Navigate to <a href="http://localhost:9001">localhost:9001</a> to check the Pinot cluster, its components and the query console. The memory consumption just to spin up the services is approximately 6GB and the time for all services to start is about 5-10 minutes (depending on the machine). It is highly recommended to use multiple machines to host the several containers of the cluster, as this setup is memory exhaustive to host in a single machine.
+Navigate to <a href="http://localhost:9001" target="_blank">localhost:9001</a> to check the Pinot cluster, its components and the query console. The memory consumption just to spin up the services is approximately 6GB and the time for all services to start is about 5-10 minutes (depending on the machine). It is highly recommended to use multiple machines to host the several containers of the cluster, as this setup is memory exhaustive to host in a single machine.
 
 ![Apache Pinot User Interface](../assets/img/pinot-docker-cluster/Pinot_UI.png){: .mx-auto.d-block :}
 <p align = "center">
