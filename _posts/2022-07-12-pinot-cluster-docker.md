@@ -323,7 +323,7 @@ Fig. 2: Apache Pinot user interface
 
 In order to test the cluster of Pinot, a simple CSV ingestion job will be executed using the following commands. 
 
-The CSV file to be ingested is a small dataset that contains songs. To speed up the ingestion, `tracks` schema file and table definition have been created. All associated files can be found in my GitHub [repository](https://github.com/cnatsis/pinot-cluster-docker).
+The CSV file to be ingested is a small dataset that contains songs. To speed up the ingestion, `tracks` schema file and table definition have been created. All associated files can be found in my GitHub <a href="https://github.com/cnatsis/pinot-cluster-docker" target="_blank">repository</a>.
 
 ```bash
 # Create temp folders in the container
