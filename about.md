@@ -8,6 +8,7 @@ subtitle:
 </div>
 
 # `whoami`
+
 My name is Christos Natsis, I am a Senior Software Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in Big Data technologies, stream processing, web development, DevOps and cloud computing.
 
 `#bigdata` `#analytics` `#microservices` `#aws` `#azure`
