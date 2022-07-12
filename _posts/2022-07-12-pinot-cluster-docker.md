@@ -6,7 +6,7 @@ comments: false
 social-share: false
 gh-repo: cnatsis/pinot-cluster-docker
 gh-badge: [star, fork, follow]
-tags: [apache-pinot, analytics, real-time, docker, devops]
+tags: [apache-pinot, analytics, real-time, realtime-analytics, olap, docker, devops]
 ---
 <div style="text-align: justify;">
 <p>
