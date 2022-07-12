@@ -377,6 +377,6 @@ Fig. 4: Apache Pinot Query Console
 
 ## References
 
-- [Apache Pinot Documentation](https://docs.pinot.apache.org/)
-- [StarTree](https://www.startree.ai/)
+- <a href="https://docs.pinot.apache.org/" target="_blank">Apache Pinot Documentation</a> 
+- <a href="https://www.startree.ai/" target="_blank">StarTree</a>
 
