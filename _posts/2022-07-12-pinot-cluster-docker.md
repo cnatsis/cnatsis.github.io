@@ -32,7 +32,7 @@ Apache Pinot is availabe as a managed service from <a href="https://startree.ai/
 
 ## Pinot's basic components
 
-Apache Pinot's basic components of Apache Pinot include the following:
+Apache Pinot's basic components include the following:
 
 ### Cluster
 
@@ -307,7 +307,7 @@ volumes:
   pinotServer2:
 ```
 
-To start all services above run: 
+To start all services above, run the command: 
 ```bash
 docker-compose up -d
 ```
@@ -323,7 +323,7 @@ Fig. 2: Apache Pinot user interface
 
 In order to test the cluster of Pinot, a simple CSV ingestion job will be executed using the following commands. 
 
-The CSV file to be ingested is a small tracks dataset. To speed up the ingestion, `tracks` schema file and table definition have been created. All associated files can be found in my GitHub [repository](https://github.com/cnatsis/pinot-cluster-docker).
+The CSV file to be ingested is a small dataset that contains songs. To speed up the ingestion, `tracks` schema file and table definition have been created. All associated files can be found in my GitHub [repository](https://github.com/cnatsis/pinot-cluster-docker).
 
 ```bash
 # Create temp folders in the container
