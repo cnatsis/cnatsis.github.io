@@ -11,7 +11,7 @@ subtitle:
 
 My name is Christos Natsis, I am a Senior Software Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in Big Data technologies, stream processing, web development, DevOps and cloud computing.
 
-`#bigdata` `#analytics` `#microservices` `#aws` `#azure`
+`#bigdata` `#data-mesh` `#analytics` `#microservices` `#aws` `#azure`
 
 <!-- <a href="/tags#big data" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;big data</a> -->
 <!-- <a href="/tags#data analytics" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;data analytics</a> -->
@@ -22,15 +22,32 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 
 ## Technologies
 
-- Java (Spring)
+### Programming
+
+- Java (Spring Boot)
 - Python (FastAPI, Flask)
 - Scala
+
+### Data Stack
+
 - Apache Kafka
-- Apache Spark
-- Apache Hadoop, HDFS, Hive
+- Apache Spark (Spark Structured Streaming)
 - Trino
+- Delta Lake, Apache Iceberg, Apache Kudu, Hive
+- Apache Airflow
+- dbt
+- Apache Hadoop
+- MinIO
 - PostgreSQL, MySQL
+- DataHub
+- Great Expectations
+- Apache Pinot, Druid
+
+### DevOps & Cloud
+
 - Docker
+- AWS
+- Microsoft Azure
 
 ## Certifications
 
