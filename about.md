@@ -33,7 +33,7 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 - Apache Kafka
 - Apache Spark (Spark Structured Streaming)
 - Trino
-- Delta Lake, Apache Iceberg, Apache Kudu, Hive
+- Delta Lake, Apache Iceberg, Apache Kudu, Apache Hive
 - Apache Airflow
 - dbt
 - Apache Hadoop
