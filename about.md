@@ -9,7 +9,7 @@ subtitle:
 
 # `whoami`
 
-My name is Christos Natsis, I am a Senior Software Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in data technologies, stream processing, web development, DevOps and cloud computing.
+My name is Christos Natsis, I am a Senior Data Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in data technologies, stream processing and event-driven systems, web development, DevOps and cloud computing.
 
 `#dataengineering` `#datamesh` `#analytics` `#microservices` `#aws` `#azure`
 
@@ -24,8 +24,8 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 
 ### Programming
 
-- Java (Spring Boot)
 - Python (FastAPI, Flask)
+- Java (Spring Boot)
 - Scala
 
 ### Data Stack
@@ -33,7 +33,7 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 - Apache Kafka
 - Apache Spark (Spark Structured Streaming)
 - Trino
-- Delta Lake, Apache Iceberg, Apache Kudu, Apache Hive
+- Apache Iceberg, Delta Lake, Apache Hive, Apache Kudu
 - Apache Airflow
 - dbt
 - Apache Hadoop
@@ -45,7 +45,7 @@ My name is Christos Natsis, I am a Senior Software Engineer with demonstrated pr
 
 ### DevOps & Cloud
 
-- Docker
+- Docker, Kubernetes
 - AWS
 - Microsoft Azure
 
