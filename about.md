@@ -42,6 +42,7 @@ My name is Christos Natsis, I am a Senior Data Engineer with demonstrated profes
 - DataHub
 - Great Expectations
 - Apache Pinot, Druid
+- Apache Superset
 
 ### DevOps & Cloud
 
