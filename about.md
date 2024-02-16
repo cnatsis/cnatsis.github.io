@@ -9,7 +9,7 @@ subtitle:
 
 # `whoami`
 
-My name is Christos Natsis, I am a Senior Data Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in data technologies, stream processing and event-driven systems, web development, DevOps and cloud computing.
+My name is Christos Natsis, I am a Lead Data Engineer with demonstrated professional experience in consulting services, hands-on experience and broad interest in data technologies, federated data platforms and data mesh, stream processing and event-driven systems, DevOps, cloud computing and enterprise product development.
 
 `#dataengineering` `#datamesh` `#analytics` `#microservices` `#aws` `#azure`
 
@@ -35,7 +35,6 @@ My name is Christos Natsis, I am a Senior Data Engineer with demonstrated profes
 - Trino
 - Apache Iceberg, Delta Lake, Apache Hive, Apache Kudu
 - Apache Airflow
-- dbt
 - Apache Hadoop
 - MinIO
 - PostgreSQL, MySQL
